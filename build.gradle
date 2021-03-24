@@ -1,7 +1,6 @@
 plugins {
-    id 'org.springframework.boot' version '1.5.6.RELEASE'
+  id "org.springframework.boot" version "2.4.3"
 }
-
 apply plugin: 'war'
 
 sourceCompatibility = 1.8
