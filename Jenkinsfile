@@ -1,7 +1,7 @@
 pipeline {
      agent {
         docker { image 'gradle:6.5.1-jdk11'
-' }
+}
     }
 
     triggers {
